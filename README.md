@@ -18,7 +18,7 @@ lowercase -- 小写字母命名法
 
 Methodology -- 方法论
 
-move on this later -- 稍后详述
+more on this later -- 稍后详述
 
 miscellaneous -- 各种各样的，五花八门的，大杂烩的
 
