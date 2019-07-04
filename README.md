@@ -16,6 +16,8 @@ It's entirely a matter of preference. -- 这完全是个见仁见智(个人喜�
 
 Invalid folder name is composed of alphanumeric characters, underscores and dashes. - 有效的文件夹名由字母、数字、下划线、破折号组成
 
+lay the ground work for -- 为....奠定基础
+
 LIFO -- Last In First Out
 
 limbo -- （尤指等待他人做决定）不稳定状态，中间态
