@@ -12,6 +12,8 @@ FIFO -- First In First Out
 
 I can't figure out why it doesn't work the way as expected. -- 我想不出为什么它没有按预期的那样工作。
 
+It's entirely a matter of preference. -- 这完全是个见仁见智(个人喜好)的问题。
+
 Invalid folder name is composed of alphanumeric characters, underscores and dashes. - 有效的文件夹名由字母、数字、下划线、破折号组成
 
 LIFO -- Last In First Out
