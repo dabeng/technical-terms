@@ -32,6 +32,8 @@ miscellaneous -- 各种各样的，五花八门的，大杂烩的
 
 "one size fits all" solution -- 万能的解决方案
 
+per se -- 本质上
+
 Pressing -- 紧急的，迫切的
 
 Pseudocode -- 伪代码
