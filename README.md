@@ -43,6 +43,8 @@ syntactic -- 语法的
 
 semantic -- 语义的 
 
+Technical debt (expensive work that must be done later) -- 技术债
+
 terse -- 简洁的，精炼的（e.g. terse components）
 
 under the hood -- 在后台，在底层
