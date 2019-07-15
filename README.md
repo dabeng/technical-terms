@@ -25,6 +25,8 @@ limbo -- （尤指等待他人做决定）不稳定状态，中间态
 
 lowercase -- 小写字母命名法
 
+man-hour -- 工时
+
 Methodology -- 方法论
 
 more on this later -- 稍后详述
