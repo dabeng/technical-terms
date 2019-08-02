@@ -2,6 +2,8 @@
 
 allocation -- 配给，分配 (e.g. memory allocations)
 
+be out of scope for this tutorial -- 超纲了
+
 camelCase -- 驼峰命名法
 
 curly braces -- 大括号
