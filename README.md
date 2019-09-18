@@ -13,7 +13,6 @@ Descend from --
 FIFO -- First In First Out
 
 I can't figure out why it doesn't work the way as expected. -- 我想不出为什么它没有按预期的那样工作。
-in the next few days(weeks) -- 接下来的几天，几周
 
 It's entirely a matter of preference. -- 这完全是个见仁见智(个人喜好)的问题。
 
@@ -50,6 +49,8 @@ semantic -- 语义的
 Technical debt (expensive work that must be done later) -- 技术债
 
 terse -- 简洁的，精炼的（e.g. terse components）
+
+tweak -- 微调
 
 under the hood -- 在后台，在底层
 
