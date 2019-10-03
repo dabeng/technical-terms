@@ -12,6 +12,10 @@ Descend from --
 
 FIFO -- First In First Out
 
+intricate -- 错综复杂的，盘根交错的
+
+synthetic -- 人造的，人工合成的
+
 I can't figure out why it doesn't work the way as expected. -- 我想不出为什么它没有按预期的那样工作。
 
 It's entirely a matter of preference. -- 这完全是个见仁见智(个人喜好)的问题。
