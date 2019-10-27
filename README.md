@@ -44,6 +44,8 @@ Pressing -- 紧急的，迫切的
 
 Pseudocode -- 伪代码
 
+Realistically -- 实事求是地说
+
 syntactic -- 语法的
 
 semantic -- 语义的
