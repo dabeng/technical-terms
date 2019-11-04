@@ -36,9 +36,13 @@ more on this later -- 稍后详述
 
 miscellaneous -- 各种各样的，五花八门的，大杂烩的
 
+new-ish -- 较新的
+
 "one size fits all" solution -- 万能的解决方案
 
 once and for all -- 彻底地，一劳永逸地
+
+over time -- 随着时间的推移
 
 per se -- 本质上
 
