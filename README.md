@@ -12,6 +12,8 @@ curly braces -- 大括号
 
 Descend from --
 
+figure out -- 想出；弄明白
+
 FIFO -- First In First Out
 
 intricate -- 错综复杂的，盘根交错的
