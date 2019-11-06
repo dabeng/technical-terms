@@ -22,6 +22,8 @@ figure out -- 想出；弄明白
 
 FIFO -- First In First Out
 
+in the first place -- 起初，一开始；首先，首要的是
+
 intricate -- 错综复杂的，盘根交错的
 
 I can't figure out why it doesn't work the way as expected. -- 我想不出为什么它没有按预期的那样工作。
