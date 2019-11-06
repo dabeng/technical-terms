@@ -76,6 +76,8 @@ terse -- 简洁的，精炼的（e.g. terse components）
 
 tweak -- 微调
 
+under heavy load -- 在高负荷，高负载情况下
+
 under the hood -- 在后台，在底层
 
 ... work like a charm -- ...（方案，方法） 非常奏效
