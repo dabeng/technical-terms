@@ -22,6 +22,8 @@ figure out -- 想出；弄明白
 
 FIFO -- First In First Out
 
+flatten -- 打平
+
 in the first place -- 起初，一开始；首先，首要的是
 
 intricate -- 错综复杂的，盘根交错的
