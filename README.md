@@ -14,6 +14,8 @@ Descend from --
 
 error-prone -- 易出错的
 
+far-fetched -- 牵强的
+
 figure out -- 想出；弄明白
 
 FIFO -- First In First Out
