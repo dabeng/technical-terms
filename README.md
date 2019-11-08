@@ -62,6 +62,8 @@ once and for all -- 彻底地，一劳永逸地
 
 over time -- 随着时间的推移
 
+out of the reach of ... -- 够不着；力所不及
+
 per se -- 本质上
 
 Pressing -- 紧急的，迫切的
