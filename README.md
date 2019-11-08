@@ -1,5 +1,7 @@
 # technical-terms
 
+a.k.a -- also known as 亦称，又名
+
 allocation -- 配给，分配 (e.g. memory allocations)
 
 beforehand -- 预先；事先；提前
