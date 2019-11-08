@@ -8,6 +8,8 @@ beforehand -- 预先；事先；提前
 
 be best used when -- 最适合用在...的时候
 
+be held responsible for -- 对...负责人
+
 be out of scope for this tutorial -- 超纲了
 
 camelCase -- 驼峰命名法
