@@ -68,6 +68,8 @@ out of the reach of ... -- 够不着；力所不及
 
 per se -- 本质上
 
+plug-and-play - 即插即用的
+
 Pressing -- 紧急的，迫切的
 
 Pseudocode -- 伪代码
