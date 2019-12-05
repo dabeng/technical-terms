@@ -14,6 +14,8 @@ be out of scope for this tutorial -- 超纲了
 
 camelCase -- 驼峰命名法
 
+convoluted -- 错综复杂的；晦涩难懂的
+
 curly braces -- 大括号
 
 Descend from --
