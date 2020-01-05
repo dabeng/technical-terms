@@ -24,6 +24,8 @@ Descend from --
 
 error-prone -- 易出错的
 
+the fact of the matter is that -- 真实的情况是 ...
+
 far-fetched -- 牵强的
 
 figure out -- 想出；弄明白
