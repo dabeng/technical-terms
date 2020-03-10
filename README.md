@@ -26,6 +26,8 @@ error-prone -- 易出错的
 
 the fact of the matter is that -- 真实的情况是 ...
 
+factor in -- 将…考虑进去
+
 far-fetched -- 牵强的
 
 figure out -- 想出；弄明白
@@ -87,6 +89,8 @@ syntactic -- 语法的
 semantic -- 语义的
 
 synthetic -- 人造的，人工合成的
+
+take into account -- 考虑到;把…计算在内
 
 Technical debt (expensive work that must be done later) -- 技术债
 
