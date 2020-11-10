@@ -76,6 +76,8 @@ miscellaneous -- 各种各样的，五花八门的，大杂烩的
 
 new-ish -- 较新的
 
+now that -- 既然
+
 "one size fits all" solution -- 万能的解决方案
 
 once and for all -- 彻底地，一劳永逸地
