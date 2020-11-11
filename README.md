@@ -100,6 +100,8 @@ syntactic -- 语法的
 
 semantic -- 语义的
 
+superseded -- 取代，替代(已非最佳选择或已过时的事物)
+
 synthetic -- 人造的，人工合成的
 
 take into account -- 考虑到;把…计算在内
