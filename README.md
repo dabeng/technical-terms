@@ -46,6 +46,8 @@ intricate -- 错综复杂的，盘根交错的
 
 Just like the name says -- 顾名思义
 
+keep ... out of ... -- 使 … 置身于…之外
+
 here is where ... come into play -- 这就是...发挥作用的地方
 
 here is where ... step in --这就是...可以介入（干预）的地方
