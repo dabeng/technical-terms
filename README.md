@@ -24,6 +24,8 @@ convoluted -- 错综复杂的；晦涩难懂的
 
 curly braces -- 大括号
 
+emoji -- 表情符号
+
 A parent compoent is completely in the dark about what's going on insides its child component -- 父组件不知道子组件里发生了什么
 
 Descend from --
