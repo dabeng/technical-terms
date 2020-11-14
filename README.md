@@ -12,7 +12,13 @@ be best used when -- 最适合用在...的时候
 
 be comfortable doing ... -- 很轻松地做...
 
+be good to use when -- ...适用于...时候
+
 be held responsible for -- 对...负责人
+
+be intended to ... -- 用来干...的
+
+be desinged to ... -- 设计用来干什么的
 
 be out of scope for this tutorial -- 超纲了
 
