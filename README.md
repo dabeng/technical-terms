@@ -8,6 +8,8 @@ allocation -- 配给，分配 (e.g. memory allocations)
 
 beforehand -- 预先；事先；提前
 
+be basically a -- 基本上算是一个. . .
+
 be best used when -- 最适合用在...的时候
 
 be comfortable doing ... -- 很轻松地做...
