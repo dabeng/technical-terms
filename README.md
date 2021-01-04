@@ -120,6 +120,8 @@ synthetic -- 人造的，人工合成的
 
 take into account -- 考虑到;把…计算在内
 
+That said， -- 也就是说，
+
 There is nothing to dive into -- 没啥值得深入研究的东西
 
 Technical debt (expensive work that must be done later) -- 技术债
