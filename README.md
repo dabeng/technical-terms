@@ -110,6 +110,8 @@ Pseudocode -- 伪代码
 
 Realistically -- 实事求是地说
 
+roundabout -- 迂回的;间接的;兜圈子的
+
 syntactic -- 语法的
 
 semantic -- 语义的
