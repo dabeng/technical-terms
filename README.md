@@ -54,6 +54,8 @@ flatten -- 打平
 
 in the first place -- 起初，一开始；首先，首要的是
 
+... interfere with ... -- 不打扰，不干涉，不影响
+
 intricate -- 错综复杂的，盘根交错的
 
 Just like the name says -- 顾名思义
