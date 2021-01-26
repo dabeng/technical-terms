@@ -140,4 +140,6 @@ under the hood -- 在后台，在底层
 
 when it comes to -- 当谈到...
 
+WYSIWYG(what you see is what you get) -- 所见即所得的
+
 ... work like a charm -- ...（方案，方法） 非常奏效
