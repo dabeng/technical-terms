@@ -98,6 +98,8 @@ new-ish -- 较新的
 
 now that -- 既然
 
+omit -- 忽略掉
+
 "one size fits all" solution -- 万能的解决方案
 
 once and for all -- 彻底地，一劳永逸地
