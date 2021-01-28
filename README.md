@@ -54,6 +54,8 @@ FIFO -- First In First Out
 
 flatten -- 打平
 
+framework agnostic -- 不依赖于框架的
+
 in the first place -- 起初，一开始；首先，首要的是
 
 ... interfere with ... -- 不打扰，不干涉，不影响
