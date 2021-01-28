@@ -78,6 +78,8 @@ lay the ground work for -- 为....奠定基础
 
 LIFO -- Last In First Out
 
+liken sth/sb to sth/sb -- 把...比作...
+
 limbo -- （尤指等待他人做决定）不稳定状态，中间态
 
 lowercase -- 小写字母命名法
