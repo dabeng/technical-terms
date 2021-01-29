@@ -134,6 +134,8 @@ synthetic -- 人造的，人工合成的
 
 take into account -- 考虑到;把…计算在内
 
+tedious -- 冗长乏味的
+
 That said， -- 也就是说，
 
 There is nothing to dive into -- 没啥值得深入研究的东西
