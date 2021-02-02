@@ -124,6 +124,8 @@ refer to it as -- 把...称为...
 
 roundabout -- 迂回的;间接的;兜圈子的
 
+self-explanatory -- 自解释的
+
 syntactic -- 语法的
 
 semantic -- 语义的
