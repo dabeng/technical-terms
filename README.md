@@ -58,6 +58,8 @@ flatten -- 打平
 
 framework agnostic -- 不依赖于框架的
 
+what future plans are there for this project -- 这个项目未来有啥计划？
+
 in the first place -- 起初，一开始；首先，首要的是
 
 The issue here is that -- 这里的问题是...
