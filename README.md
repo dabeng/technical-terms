@@ -146,6 +146,8 @@ tedious -- 冗长乏味的
 
 That said， -- 也就是说，
 
+There may be scenarios where you need to -- 可能有这样的场景，你需要.....
+
 There is nothing to dive into -- 没啥值得深入研究的东西
 
 Technical debt (expensive work that must be done later) -- 技术债
