@@ -34,9 +34,13 @@ convoluted -- 错综复杂的；晦涩难懂的
 
 curly braces -- 大括号
 
+corner case -- 极端案例
+
 dense --（信息量大得）难理解的，难懂的
 
 emoji -- 表情符号
+
+edge case -- 边缘案例
 
 A parent compoent is completely in the dark about what's going on insides its child component -- 父组件不知道子组件里发生了什么
 
