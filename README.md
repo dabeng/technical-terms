@@ -1,5 +1,7 @@
 # technical-terms
 
+allocation / deallocation -- 分配/回收
+
 a.k.a -- also known as 亦称，又名
 
 as the name implies - 顾名思义
