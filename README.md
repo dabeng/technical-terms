@@ -37,6 +37,7 @@ convoluted -- 错综复杂的；晦涩难懂的
 curly braces -- 大括号
 
 corner case -- 极端案例
+cost-effective -- 低成本高效益，划算的
 
 dense --（信息量大得）难理解的，难懂的
 
