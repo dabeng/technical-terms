@@ -75,6 +75,8 @@ The issue here is that -- 这里的问题是...
 
 intricate -- 错综复杂的，盘根交错的
 
+intuitive -- 凭直觉的；易懂的
+
 Just like the name says -- 顾名思义
 
 keep ... out of ... -- 使 … 置身于…之外
