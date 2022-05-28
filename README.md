@@ -63,6 +63,10 @@ FIFO -- First In First Out
 
 flatten -- 打平
 
+for this, ... -- 为此，...
+
+for that happen, ... -- 为了做到那件事
+
 framework agnostic -- 不依赖于框架的
 
 what future plans are there for this project -- 这个项目未来有啥计划？
