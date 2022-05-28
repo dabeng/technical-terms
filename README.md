@@ -141,6 +141,8 @@ Realistically -- 实事求是地说
 
 be referred to as ... -- 被称为...
 
+reducer -- 归纳函数
+
 refer to it as -- 把...称为...
 
 roundabout -- 迂回的;间接的;兜圈子的
