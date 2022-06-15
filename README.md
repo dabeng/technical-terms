@@ -83,6 +83,8 @@ intuitive -- 凭直觉的；易懂的
 
 Just like the name says -- 顾名思义
 
+keep ... and ... in sync -- 使...和...保持一致
+
 keep ... out of ... -- 使 … 置身于…之外
 
 here is where ... come into play -- 这就是...发挥作用的地方
