@@ -163,6 +163,8 @@ take into account -- 考虑到;把…计算在内
 
 tedious -- 冗长乏味的
 
+theoretically -- 照理说，
+
 That said， -- 也就是说，
 
 There may be scenarios where you need to -- 可能有这样的场景，你需要.....
