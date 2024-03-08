@@ -30,6 +30,8 @@ be out of scope for this tutorial -- 超纲了
 
 camelCase -- 驼峰命名法
 
+check mark -- 对勾
+
 circumvent -- 回避；规避
 
 convoluted -- 错综复杂的；晦涩难懂的
