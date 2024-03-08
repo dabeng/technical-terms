@@ -34,6 +34,8 @@ green check mark -- 绿对勾
 
 red cross -- 红叉
 
+asterisk -- 星号（*）
+
 circumvent -- 回避；规避
 
 convoluted -- 错综复杂的；晦涩难懂的
