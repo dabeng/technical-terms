@@ -30,7 +30,9 @@ be out of scope for this tutorial -- 超纲了
 
 camelCase -- 驼峰命名法
 
-check mark -- 对勾
+green check mark -- 绿对勾
+
+red cross -- 红叉
 
 circumvent -- 回避；规避
 
