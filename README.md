@@ -69,6 +69,8 @@ FIFO -- First In First Out
 
 flatten -- 打平
 
+for simplicity -- 简便起见
+
 for this, ... -- 为此，...
 
 for that happen, ... -- 为了做到那件事
