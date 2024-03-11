@@ -63,6 +63,8 @@ factor in -- 将…考虑进去
 
 far-fetched -- 牵强的
 
+feasible, infeasible; workable, unworkable -- 可行的；不可行的
+
 figure out -- 想出；弄明白
 
 FIFO -- First In First Out
