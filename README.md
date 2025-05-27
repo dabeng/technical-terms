@@ -1,5 +1,7 @@
 # technical-terms
 
+I have been in charge of the architecture design and the implementation of core modules for a long time.
+
 allocation / deallocation -- 分配/回收
 
 a.k.a -- also known as 亦称，又名
