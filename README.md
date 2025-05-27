@@ -1,6 +1,10 @@
 # technical-terms
 
-I have been in charge of the architecture design and the implementation of core modules for a long time.
+I was in charge of the architecture design, technology stack selection and the implementation of core modules for a long time --我长期负责架构设计和核心模块实现
+
+I once worked in RedHat for nearly six years  -- 我曾在红帽工作了近6年
+
+During that period, I developed various internal systems -- 在那期间，我开发过各种各样的内部系统
 
 allocation / deallocation -- 分配/回收
 
