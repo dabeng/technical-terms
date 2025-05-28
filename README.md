@@ -8,6 +8,38 @@ I once worked in RedHat for nearly six years  -- 我曾在红帽工作了近6年
 
 During that period, I developed various internal systems -- 在那期间，我开发过各种各样的内部系统
 
+The biggest challenge in my career I have ever faced is to promote opensoure project -- 我职业生涯中面临的最大挑战是推广开源项目
+
+Convincing as many developers as possible, especially those outside your company, to use your UI library is the most defficult thing -- 说服尽可能多的开发者，尤其是你公司之外的人，去用你的库是最难办的事
+
+How can you persuade developers to choose your library from hundreds of options -- 你怎么劝说开发者从数百个备选项里选中你的库来使用
+
+Your can imagine that there are lots of options on the internet to do same things -- 你可以想象出互联网上有很多选择来做相同的事情
+
+Your library should address the pain points of the users -- 你的库能解决用户的痛点
+
+Your library should fulfill the real needs of the users -- 你的库必须能实现用户的真实需求
+
+Your library should be powerful and esay to use -- 你的库必须简单好用并且功能强大
+
+Giving users the maximum customization space is the killer feature of the OrgChart libraray -- 给予用户最大的定制空间是OrgChart组件库的杀手级特性
+
+I have to spend extra effort dealing with non-modern browser compatibility issues -- 我必须花额外的力气去处理非现代浏览器的兼容性问题
+
+Not all browsers can handle the "Ghost Node" well -- 并不是所有的浏览器都能处理好ghost node
+
+It's worthwhile to do this -- 这么做是值得的
+
+After looking at this data, you will know that this library is a failed case -- 看了数据，你会知道这个库是一个失败的案例
+
+Leave the troubles to myself and the comfort to the customers. This is the mission of a qualified library or framework -- 把麻烦留给自己，把安逸留给用户，这才是一个库或宽家
+
+
+
+
+
+
+
 allocation / deallocation -- 分配/回收
 
 a.k.a -- also known as 亦称，又名
