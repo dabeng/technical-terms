@@ -34,8 +34,21 @@ After looking at this data, you will know that this library is a failed case -- 
 
 Leave the troubles to myself and the comfort to the customers. This is the mission of a qualified library or framework -- 把麻烦留给自己，把安逸留给用户，这才是一个库或宽家
 
+Compared with cool animation effects, users prefer practical functions -- 和酷炫的动画效果比起来，用户更想要实在的功能
 
+Compared with a beautiful interface, developers value functionality more -- 比起漂亮的界面，开发者们更看重功能
 
+What's more, your interface is not attractive -- 更何况，你的界面也不咋好看
+
+Devlopers like original functions rather than non-original ones
+
+There is a problem with user positioning of this library -- 这个库的用户定位出了问题
+
+Try your best to anwser the questions reaised by the opensource comunity netizens
+
+I have always firmly believed that the key to solve problems lies in changing the way of thinking, ranther than applying fashionable technologies
+
+There is only the most suitable solution, not the best one  -- 只有最合适的方案，没有最好的方案
 
 
 
