@@ -50,8 +50,23 @@ I have always firmly believed that the key to solve problems lies in changing th
 
 There is only the most suitable solution, not the best one  -- 只有最合适的方案，没有最好的方案
 
+VBCS allows users to develop the web applications in a what-you-see-is-what-you-get way
 
+That product was not mature enough at that time. There are not enough reference materials
 
+I have to think from the VBCS creators' perspectives, how to allow users to develop modern web application by drag and drop UI elements
+
+All the variants of the organization chart originate from the ingenious ideas of community netizens
+
+What is the main job content of this position ? -- 该岗位的主要工作内容是啥
+
+What is the main process of code development and submission ? -- 代码开发与提交的主要流程是啥
+
+What are the frameworks and libraries recommended for use within the company ? -- 公司内部推荐使用的框架和库是啥
+
+Which project will I join ? -- 我会加入哪个项目
+
+Are there any interesting opensource repos maintained by your department or project team on github ? I hope I can learn valuable things from these repos -- github上有你们部门或团队维护的有趣的代码仓库吗 ？ 我希望借鉴学习一下
 
 allocation / deallocation -- 分配/回收
 
