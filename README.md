@@ -60,6 +60,8 @@ All the variants of the organization chart originate from the ingenious ideas of
 
 As the new feature requests become more and more, this jquery plugin is also growing larger and larger. It has transformed into a coarse-grained component, not fine-grained component anymore 
 
+I borrowed from the mongoose api design style
+
 What is the main job content of this position ? -- 该岗位的主要工作内容是啥
 
 What is the main process of code development and submission ? -- 代码开发与提交的主要流程是啥
