@@ -58,6 +58,8 @@ I have to think from the VBCS creators' perspectives, how to allow users to deve
 
 All the variants of the organization chart originate from the ingenious ideas of community netizens
 
+As the new feature requests become more and more, this jquery plugin is also growing larger and larger. It has transformed into a coarse-grained component, not fine-grained component anymore 
+
 What is the main job content of this position ? -- 该岗位的主要工作内容是啥
 
 What is the main process of code development and submission ? -- 代码开发与提交的主要流程是啥
@@ -65,6 +67,10 @@ What is the main process of code development and submission ? -- 代码开发与
 What are the frameworks and libraries recommended for use within the company ? -- 公司内部推荐使用的框架和库是啥
 
 Which project will I join ? -- 我会加入哪个项目
+
+Explicitly -- 显式地
+
+implicitly -- 隐式地
 
 Are there any interesting opensource repos maintained by your department or project team on github ? I hope I can learn valuable things from these repos -- github上有你们部门或团队维护的有趣的代码仓库吗 ？ 我希望借鉴学习一下
 
