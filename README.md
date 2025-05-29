@@ -80,7 +80,7 @@ The one-to-one relationship turns into many-to-many relationship
 
 So you can imagine how difficult it is to construct family tree. It's very difficult to draw the lines between the related nodes with pure dom solution.
 
-At the next milestone, I'll expose the correspoding method to draw the line between the random two nodes
+At the next milestone, I'll expose the correspoding method to draw the line between the two random nodes
 
 a spinoff company of IBM -- 拆分出来的公司
 
