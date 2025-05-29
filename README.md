@@ -1,5 +1,7 @@
 # technical-terms
 
+I really like the mobile development, but I don't have practical mobile prject experience.
+
 I deeply understand how to create the robust web apllications with the front-end best practices -- 我深知如何基于前端最佳时间去创建强健的web应用
 
 As long as it can solove users' pactical problems, I'm willing to use it.
