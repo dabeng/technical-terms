@@ -80,6 +80,8 @@ So you can imagine how difficult it is to construct family tree. It's very diffi
 
 At the next milestone, I'll expose the correspoding method to draw the line between the random two nodes
 
+a spinoff company of IBM -- 拆分出来的公司
+
 big and comprehensive -- 大而全的
 
 small and specialized -- 小而专的
