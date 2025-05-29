@@ -70,6 +70,20 @@ What are the frameworks and libraries recommended for use within the company ? -
 
 Which project will I join ? -- 我会加入哪个项目
 
+I will continue to focus on the frontend field because contributing code to the opensource community benefit me a lot
+
+A man can get married and divorced multiple times. A women can get married and divorced multiple times. A couple can have multiple children. 
+
+The one-to-one relationship turns into many-to-many relationship
+
+So you can imagine how difficult it is to construct family tree. It's very difficult to draw the lines between the related nodes with pure dom solution.
+
+At the next milestone, I'll expose the correspoding method to draw the line between the random two nodes
+
+big and comprehensive -- 大而全的
+
+small and specialized -- 小而专的
+
 Explicitly -- 显式地
 
 implicitly -- 隐式地
