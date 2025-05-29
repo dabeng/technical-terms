@@ -1,6 +1,6 @@
 # technical-terms
 
-I know how to create the robust web apllications with the front-end best practices -- 我知道如何基于前端最佳时间去创建强健的web应用
+I deeply understand how to create the robust web apllications with the front-end best practices -- 我深知如何基于前端最佳时间去创建强健的web应用
 
 As long as it can solove users' pactical problems, I'm willing to use it.
 
