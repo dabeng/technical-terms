@@ -1,5 +1,7 @@
 # technical-terms
 
+As long as it can solove users' pactical problems, I'm willing to use it.
+
 I was in charge of the architecture design, technology stack selection and the implementation of core modules for a long time -- 我长期负责技术栈选型，架构设计和核心模块实现
 
 All the work falls within the scope of front-end development -- 所有的工作都是前端范畴
