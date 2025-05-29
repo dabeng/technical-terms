@@ -1,5 +1,7 @@
 # technical-terms
 
+I know how to create the robust web apllications with the front-end best practices -- 我知道如何基于前端最佳时间去创建强健的web应用
+
 As long as it can solove users' pactical problems, I'm willing to use it.
 
 I was in charge of the architecture design, technology stack selection and the implementation of core modules for a long time -- 我长期负责技术栈选型，架构设计和核心模块实现
