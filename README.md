@@ -2,6 +2,8 @@
 
 As a qulified frontend developer, it's not big deal to switch between different frameworks to develop different web applications -- 作为一个合格前端开发者，在不同框架间切换来开发不用web应用，不是什么大不了的事
 
+Give me half a month to get familiar with the latest framework, and I can deliever the code like a charm afterwards
+
 I really like the mobile development, but I don't have practical mobile prject experience.
 
 I deeply understand how to create the robust web apllications with the front-end best practices -- 我深知如何基于前端最佳时间去创建强健的web应用
