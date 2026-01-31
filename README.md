@@ -1,58 +1,111 @@
 # technical-terms
 
-As a qulified frontend developer, it's not big deal to switch between different frameworks to develop different web applications -- 作为一个合格前端开发者，在不同框架间切换来开发不用web应用，不是什么大不了的事
-Give me half a month to get familiar with the latest framework, and I can deliever the code like a charm afterwards -- 给我半月时间熟悉最新框架，之后我就能顺利提交代码
-I deeply understand how to create the robust web apllications with the front-end best practices -- 我深知如何基于前端最佳时间去创建强健的web应用
-As long as it can solove users' pactical problems, I'm willing to use it.
-I was in charge of the architecture design, technology stack selection and the implementation of core modules for a long time -- 我长期负责技术栈选型，架构设计和核心模块实现
-All my work falls within the scope of front-end field -- 我所有的工作都是前端领域
+As a qulified frontend developer, it's not big deal to switch between different frameworks to develop different web applications  作为一个合格前端开发者，在不同框架间切换来开发不用web应用，不是什么大不了的事
+
+Give me half a month to get familiar with the latest framework, and I can deliever the code like a charm afterwards  给我半月时间熟悉最新框架，之后我就能顺利提交代码
+
+I deeply understand how to create the robust web apllications with the front-end best practices  我深知如何基于前端最佳时间去创建强健的web应用
+
+As long as it can solove users' pactical problems, I'm willing to use it  只要能解决用户实际问题，我就愿意使用它
+
+I was in charge of the architecture design, technology stack selection and the implementation of core modules for a long time  我长期负责技术栈选型，架构设计和核心模块实现
+
+All my work falls within the scope of front-end field  我所有的工作都是前端领域
+
 I have been working as a full-time frontend developer since 2011 -- 从2011年开始，我就一直做专职的前端
+
 I once worked in RedHat for nearly six years  -- 我曾在红帽工作了近6年
+
 During that period, I developed various internal systems -- 在那期间，我开发过各种各样的内部系统
-The biggest challenge in my career I have ever faced is to promote opensoure project -- 我职业生涯中面临的最大挑战是推广开源项目
-Convincing as many developers as possible to use your UI library is the most defficult thing -- 说服尽可能多的开发者，尤其是你公司之外的人，去用你的库是最难办的事
-How can you persuade developers to choose your library from hundreds of options -- 你怎么劝说开发者从数百个备选项里选中你的库来使用
-Your can imagine that there are lots of options on the internet to do same things -- 你可以想象出互联网上有很多选择来做相同的事情
+
+The biggest challenge in my career I have ever faced is to promote opensoure project  我职业生涯中面临的最大挑战是推广开源项目
+
+Convincing as many developers as possible to use your UI library is the most defficult thing  说服尽可能多的开发者，尤其是你公司之外的人，去用你的库是最难办的事
+
+How can you persuade developers to choose your library from hundreds of options  你怎么劝说开发者从数百个备选项里选中你的库来使用
+
+Your can imagine that there are lots of options on the internet to do same things  你可以想象出互联网上有很多选择来做相同的事情
+
 Your library should address the pain points of the users -- 你的库能解决用户的痛点
+
 Your library should fulfill the real needs of the users -- 你的库必须能实现用户的真实需求
+
 Your library should be powerful and esay to use -- 你的库必须简单好用并且功能强大
+
 Giving users the maximum customization space is the killer feature of the OrgChart libraray -- 给予用户最大的定制空间是OrgChart组件库的杀手级特性
+
 I have to spend extra effort dealing with non-modern browser compatibility issues -- 我必须花额外的力气去处理非现代浏览器的兼容性问题
+
 Not all browsers can handle the "Ghost Node" well -- 并不是所有的浏览器都能处理好ghost node
+
 It's worthwhile to do this -- 这么做是值得的
+
 After looking at this data, you will know that this library is a failed case -- 看了数据，你会知道这个库是一个失败的案例
+
 Leave the troubles to myself and the comfort to the customers. This is the mission of a qualified library or framework -- 把麻烦留给自己，把安逸留给用户，这才是一个库或宽家
+
 Compared with cool animation effects, users prefer practical functions -- 和酷炫的动画效果比起来，用户更想要实在的功能
+
 Compared with a beautiful interface, developers value functionality more -- 比起漂亮的界面，开发者们更看重功能
+
 What's more, your interface is not attractive -- 更何况，你的界面也不咋好看
+
 Devlopers like original functions rather than non-original ones
+
 There is a problem with user positioning of this library -- 这个库的用户定位出了问题
+
 Try your best to anwser the questions reaised by the opensource comunity netizens
+
 I have always firmly believed that the key to solve problems lies in changing the way of thinking, ranther than applying fashionable technologies
+
 There is only the most suitable solution, not the best one  -- 只有最合适的方案，没有最好的方案
+
 VBCS allows users to develop the web applications in a what-you-see-is-what-you-get way
+
 That product was not mature enough at that time. There are not enough reference materials
+
 I have to think from the VBCS creators' perspectives, how to allow users to develop modern web application by drag and drop UI elements
+
 All the variants of the organization chart originate from the ingenious ideas of community netizens
+
 As the new feature requests become more and more, this jquery plugin is also growing larger and larger. It has transformed into a coarse-grained component, not fine-grained component anymore 
+
 I borrowed from the mongoose api design style
+
 What is the main job content of this position ? -- 该岗位的主要工作内容是啥
+
 What is the main process of code development and submission ? -- 代码开发与提交的主要流程是啥
+
 What are the frameworks and libraries recommended for use within the company ? -- 公司内部推荐使用的框架和库是啥
+
 Which project will I join ? -- 我会加入哪个项目
+
 I will continue to focus on the frontend field because contributing code to the opensource community benefit me a lot
+
 A man can get married and divorced multiple times. A women can get married and divorced multiple times. A couple can have multiple children. 
+
 The one-to-one relationship turns into many-to-many relationship
+
 So you can imagine how difficult it is to construct family tree. It's very difficult to draw the lines between the related nodes with pure dom solution.
+
 At the next milestone, I'll expose the correspoding method to draw the line between the two random nodes
+
 As a best practice, we should use more shapes and fewer colors to reduce negative user experience for people with color deficiency
+
 Once you create an original version, you don't have to worry about other derivative ones. Cmmunity members wil naturally develop them on their own.
+
 I can't figure out why it doesn't work the way as expected. -- 我想不出为什么它没有按预期的那样工作。
+
 It's entirely a matter of preference. -- 这完全是个见仁见智(个人喜好)的问题。
+
 Invalid folder name is composed of alphanumeric characters, underscores and dashes. - 有效的文件夹名由字母、数字、下划线、破折号组成
+
 A man can marry and get divorced multiple times. A woman can also marry and get divorced multiple times too. A couple can have multiple children
+
 Providing users with maximum customization space(flexibility) is the primary intent behind creating this library
+
 we use vertical lines to connect parent and cild nodes, and horizontal lines to connect spouse nodes  -- 我们用垂直线连接父子节点，用水平线连接配偶节点
+
 it will take me a lot of time to fix the compatatibility issues
 
 according to the covention  --  按照惯例
