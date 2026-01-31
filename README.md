@@ -307,6 +307,8 @@ synthetic -- 人造的，人工合成的
 
 take into account -- 考虑到;把…计算在内
 
+it will take me a lot of time to fix the compatatibility issues
+
 tedious -- 冗长乏味的
 
 theoretically -- 照理说，
