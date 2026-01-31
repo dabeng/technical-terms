@@ -158,37 +158,27 @@ for simplicity -- 为简便起见
 
 for that to happen, ... -- 为了做到这一点；为了实现这个目标
 
-framework agnostic -- 不依赖于框架的
+platform-agnostic -- 平台无关的
 
 go deep into -- 深入到
 
-in the first place -- 起初，一开始；首先，首要的是
-
 The issue here is that -- 这里的问题是...
 
-... interfere with ... -- 不打扰，不干涉，不影响
-
-intricate -- 错综复杂的，盘根交错的
+A interfere with B -- A干扰B
 
 intuitive -- 凭直觉的；易懂的
-
-Just like the name says -- 顾名思义
 
 keep ... and ... in sync -- 使...和...保持一致
 
 keep ... out of ... -- 使 … 置身于…之外
 
-here is where ... come into play -- 这就是...发挥作用的地方
+here is where ... comes into play -- 这就是...发挥作用的地方
 
 here is where ... step in --这就是...可以介入（干预）的地方
 
-lay the ground work for -- 为....奠定基础
-
 LIFO -- Last In First Out
 
-liken sth/sb to sth/sb -- 把...比作...
-
-limbo -- （尤指等待他人做决定）不稳定状态，中间态
+liken sth/sb to sth/sb -- 把...比作...(同compare sth/sb to sth/sb)
 
 lowercase -- 小写字母命名法
 
@@ -200,11 +190,7 @@ marital relationship  -- 婚姻关系
 
 Methodology -- 方法论
 
-more on this later -- 稍后详述
-
 miscellaneous -- 各种各样的，五花八门的，大杂烩的
-
-new-ish -- 较新的
 
 now that -- 既然
 
@@ -212,13 +198,9 @@ omit -- 忽略掉
 
 "one size fits all" solution -- 万能的解决方案
 
-once and for all -- 彻底地，一劳永逸地
+solve the problem once and for all -- 彻底地，一劳永逸地解决问题
 
 over time -- 随着时间的推移
-
-out of the reach of ... -- 够不着；力所不及
-
-per se -- 本质上
 
 plug-and-play - 即插即用的
 
