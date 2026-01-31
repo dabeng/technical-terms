@@ -22,37 +22,23 @@ The biggest challenge in my career I have ever faced is to promote opensoure pro
 
 Convincing as many community members as possible to use your opensource project is the most defficult thing  说服尽可能多的社区网友去使用你的开源项目是最难办的事
 
-How can you persuade developers to choose your library from hundreds of options  你怎么劝说开发者从数百个备选项里选中你的库来使用
-
 Your can imagine that there are lots of options on the internet to do same things  你可以想象出互联网上有很多选择来做相同的事情
 
 Your library should be powerful and esay to use  你的库必须简单好用并且功能强大
 
 Providing users with the maximum customization space(flexibility) is the killer feature of the OrgChart libraray  给予用户最大的定制空间是OrgChart组件库的杀手级特性
 
-I have to spend extra effort dealing with non-modern browser compatibility issues -- 我必须花额外的力气去处理非现代浏览器的兼容性问题
+I have to spend extra effort dealing with non-modern browser compatibility issues  我必须花额外的力气去处理非现代浏览器的兼容性问题
 
-Not all browsers can handle the "Ghost Node" well -- 并不是所有的浏览器都能处理好ghost node
+Not all browsers can handle the "Ghost Node" well  并不是所有的浏览器都能处理好ghost node
 
-It's worthwhile to do this -- 这么做是值得的
+It's worthwhile to do this  这么做是值得的
 
-After looking at this data, you will know that this library is a failed case -- 看了数据，你会知道这个库是一个失败的案例
+Leave the troubles to myself and the comfort to the customers. This is the mission of a qualified library or framework  把麻烦留给自己，把安逸留给用户，这才是一个库或框架的使命
 
-Leave the troubles to myself and the comfort to the customers. This is the mission of a qualified library or framework -- 把麻烦留给自己，把安逸留给用户，这才是一个库或宽家
+Try your best to anwser the questions reaised by the opensource comunity members  
 
-Compared with cool animation effects, users prefer practical functions -- 和酷炫的动画效果比起来，用户更想要实在的功能
-
-Compared with a beautiful interface, developers value functionality more -- 比起漂亮的界面，开发者们更看重功能
-
-What's more, your interface is not attractive -- 更何况，你的界面也不咋好看
-
-Devlopers like original functions rather than non-original ones
-
-There is a problem with user positioning of this library -- 这个库的用户定位出了问题
-
-Try your best to anwser the questions reaised by the opensource comunity netizens
-
-I have always firmly believed that the key to solve problems lies in changing the way of thinking, ranther than applying fashionable technologies
+I have always firmly believed that the key to solve problems lies in changing the way of thinking, ranther than applying fashionable technologies  我始终认为解决问题的关键在于改变思考的方式，而非应用新潮的技术
 
 There is only the most suitable solution, not the best one  -- 只有最合适的方案，没有最好的方案
 
