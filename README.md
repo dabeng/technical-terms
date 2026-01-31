@@ -20,7 +20,7 @@ During that period, I developed various internal systems -- 在那期间，我�
 
 The biggest challenge in my career I have ever faced is to promote opensoure project -- 我职业生涯中面临的最大挑战是推广开源项目
 
-Convincing as many developers as possible, especially those outside your company, to use your UI library is the most defficult thing -- 说服尽可能多的开发者，尤其是你公司之外的人，去用你的库是最难办的事
+Convincing as many developers as possible to use your UI library is the most defficult thing -- 说服尽可能多的开发者，尤其是你公司之外的人，去用你的库是最难办的事
 
 How can you persuade developers to choose your library from hundreds of options -- 你怎么劝说开发者从数百个备选项里选中你的库来使用
 
