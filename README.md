@@ -26,10 +26,6 @@ How can you persuade developers to choose your library from hundreds of options 
 
 Your can imagine that there are lots of options on the internet to do same things  你可以想象出互联网上有很多选择来做相同的事情
 
-Your library should address the pain points of the users -- 你的库能解决用户的痛点
-
-Your library should fulfill the real needs of the users -- 你的库必须能实现用户的真实需求
-
 Your library should be powerful and esay to use -- 你的库必须简单好用并且功能强大
 
 Giving users the maximum customization space is the killer feature of the OrgChart libraray -- 给予用户最大的定制空间是OrgChart组件库的杀手级特性
