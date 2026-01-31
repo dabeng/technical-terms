@@ -26,9 +26,9 @@ How can you persuade developers to choose your library from hundreds of options 
 
 Your can imagine that there are lots of options on the internet to do same things  你可以想象出互联网上有很多选择来做相同的事情
 
-Your library should be powerful and esay to use -- 你的库必须简单好用并且功能强大
+Your library should be powerful and esay to use  你的库必须简单好用并且功能强大
 
-Giving users the maximum customization space is the killer feature of the OrgChart libraray -- 给予用户最大的定制空间是OrgChart组件库的杀手级特性
+Providing users with the maximum customization space(flexibility) is the killer feature of the OrgChart libraray  给予用户最大的定制空间是OrgChart组件库的杀手级特性
 
 I have to spend extra effort dealing with non-modern browser compatibility issues -- 我必须花额外的力气去处理非现代浏览器的兼容性问题
 
@@ -89,8 +89,6 @@ It's entirely a matter of preference. -- 这完全是个见仁见智(个人喜�
 Invalid folder name is composed of alphanumeric characters, underscores and dashes. - 有效的文件夹名由字母、数字、下划线、破折号组成
 
 A man can marry and get divorced multiple times. A woman can also marry and get divorced multiple times too. A couple can have multiple children
-
-Providing users with maximum customization space(flexibility) is the primary intent behind creating this library
 
 we use vertical lines to connect parent and cild nodes, and horizontal lines to connect spouse nodes  -- 我们用垂直线连接父子节点，用水平线连接配偶节点
 
