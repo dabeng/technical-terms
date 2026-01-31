@@ -154,11 +154,9 @@ FIFO -- First In First Out
 
 flatten -- 打平
 
-for simplicity -- 简便起见
+for simplicity -- 为简便起见
 
-for this, ... -- 为此，...
-
-for that happen, ... -- 为了做到那件事
+for that to happen, ... -- 为了做到这一点；为了实现这个目标
 
 framework agnostic -- 不依赖于框架的
 
