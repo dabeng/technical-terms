@@ -56,7 +56,7 @@ contributing code to the opensource community benefits me a lot  向开源社区
 
 A man can get married and divorced multiple times. A women can get married and divorced multiple times. A couple can have multiple children. 
 
-The one-to-one relationship turns into many-to-many relationship
+The one-to-many relationship turns into many-to-many relationship  一对多的关系变成了多对多的关系
 
 So you can imagine how difficult it is to construct family tree. It's very difficult to draw the lines between the related nodes with pure dom solution.
 
