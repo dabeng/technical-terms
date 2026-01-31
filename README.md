@@ -96,6 +96,8 @@ according to the covention  --  按照惯例
 
 A couple can have multiple children  --  一对夫妻可以生多个孩子
 
+Its child nodes will be arranged vertically  -- 它的子节点会被垂直布置
+
 a spinoff company of IBM -- 拆分出来的公司
 
 adopted child -- 包养的孩子
