@@ -122,13 +122,9 @@ be comfortable doing ... -- 很轻松地做...
 
 be good to use when -- ...适用于...时候
 
-be held responsible for -- 对...负责人
-
 be intended to ... -- 用来干...的
 
 be desinged to ... -- 设计用来干什么的
-
-be out of scope for this tutorial -- 超纲了
 
 camelCase -- 驼峰命名法
 
@@ -136,34 +132,21 @@ green check mark -- 绿对勾
 
 red cross -- 红叉
 
-asterisk -- 星号（*）
+round brackets, square brackets, curly brackets -- 小，中，大括号
 
-circumvent -- 回避；规避
-
-convoluted -- 错综复杂的；晦涩难懂的
-
-curly braces -- 大括号
-
-corner case -- 极端案例
-cost-effective -- 低成本高效益，划算的
-
-dense --（信息量大得）难理解的，难懂的
+cost-effective -- 高性价比的
 
 emoji -- 表情符号
 
-edge case -- 边缘案例
-
-Descend from --
+edge case -- 边界案例
 
 error-prone -- 易出错的
 
-the fact of the matter is that -- 真实的情况是 ...
+far-fetched -- 牵强的；不切实际的
 
-factor in -- 将…考虑进去
+feasible,  workable  -- 可行的
 
-far-fetched -- 牵强的
-
-feasible, infeasible; workable, unworkable -- 可行的；不可行的
+infeasible, unworkable -- 不可行的
 
 figure out -- 想出；弄明白
 
