@@ -72,14 +72,6 @@ As the new feature requests become more and more, this jquery plugin is also gro
 
 I borrowed from the mongoose api design style
 
-What is the main job content of this position ? -- 该岗位的主要工作内容是啥
-
-What is the main process of code development and submission ? -- 代码开发与提交的主要流程是啥
-
-What are the frameworks and libraries recommended for use within the company ? -- 公司内部推荐使用的框架和库是啥
-
-Which project will I join ? -- 我会加入哪个项目
-
 I will continue to focus on the frontend field because contributing code to the opensource community benefit me a lot
 
 A man can get married and divorced multiple times. A women can get married and divorced multiple times. A couple can have multiple children. 
@@ -108,6 +100,16 @@ we use vertical lines to connect parent and cild nodes, and horizontal lines to 
 
 it will take me a lot of time to fix the compatatibility issues
 
+What is the main job content of this position ?  该岗位的主要工作内容是什么
+
+What is the main development process ?  主要的开发流程是什么
+
+which project will I join ? 我会加入到哪个项目
+
+how log is the development and maintenance cycle of this project ? 该项目的开发和维护周期是多长时间
+
+what is the career progression path for this front-end developer position ?  这个前端岗的职业发展路径是什么
+
 according to the covention  --  按照惯例
 
 Its child nodes will be arranged vertically  -- 它的子节点会被垂直布置
@@ -125,8 +127,6 @@ small and specialized -- 小而专的
 Explicitly -- 显式地
 
 implicitly -- 隐式地
-
-Are there any interesting opensource repos maintained by your department or project team on github ? I hope I can learn valuable things from these repos -- github上有你们部门或团队维护的有趣的代码仓库吗 ？ 我希望借鉴学习一下
 
 allocation / deallocation -- 分配/回收
 
