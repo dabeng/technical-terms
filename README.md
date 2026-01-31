@@ -204,9 +204,9 @@ over time -- 随着时间的推移
 
 plug-and-play - 即插即用的
 
-Pressing -- 紧急的，迫切的
+pressing -- 紧急的，迫切的
 
-Pseudocode -- 伪代码
+pseudo code -- 伪代码
 
 Realistically -- 实事求是地说
 
@@ -234,25 +234,19 @@ the most space-saving solution -- 最節省空間的解決方案
 
 semantic -- 语义的
 
-superseded -- 取代，替代(已非最佳选择或已过时的事物)
-
 synthetic -- 人造的，人工合成的
 
 take into account -- 考虑到;把…计算在内
 
-
-
 tedious -- 冗长乏味的
 
-theoretically -- 照理说，
+in theory -- 理论上，按道理（同Logically）
 
 That said， -- 也就是说，
 
 There is nothing to dive into -- 没啥值得深入研究的东西
 
 Technical debt (expensive work that must be done later) -- 技术债
-
-terse -- 简洁的，精炼的（e.g. terse components）
 
 tweak -- 微调
 
@@ -264,4 +258,4 @@ when it comes to -- 当谈到...
 
 WYSIWYG(what you see is what you get) -- 所见即所得的
 
-... work like a charm -- ...（方案，方法） 非常奏效
+(fix the bug/work on IOS) like a charm -- ...立竿见影，效果超好，超顺畅
