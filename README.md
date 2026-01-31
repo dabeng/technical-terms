@@ -91,10 +91,16 @@ So you can imagine how difficult it is to construct family tree. It's very diffi
 At the next milestone, I'll expose the correspoding method to draw the line between the two random nodes
 
 As a best practice, we should use more shapes and fewer colors to reduce negative user experience for people with color deficiency
+Once you create an original version, you don't have to worry about other derivative ones. Cmmunity members wil naturally develop them on their own.
+I can't figure out why it doesn't work the way as expected. -- 我想不出为什么它没有按预期的那样工作。
+It's entirely a matter of preference. -- 这完全是个见仁见智(个人喜好)的问题。
+Invalid folder name is composed of alphanumeric characters, underscores and dashes. - 有效的文件夹名由字母、数字、下划线、破折号组成
+A man can marry and get divorced multiple times. A woman can also marry and get divorced multiple times too. A couple can have multiple children
+Providing users with maximum customization space(flexibility) is the primary intent behind creating this library
+we use vertical lines to connect parent and cild nodes, and horizontal lines to connect spouse nodes  -- 我们用垂直线连接父子节点，用水平线连接配偶节点
+it will take me a lot of time to fix the compatatibility issues
 
 according to the covention  --  按照惯例
-
-A couple can have multiple children  --  一对夫妻可以生多个孩子
 
 Its child nodes will be arranged vertically  -- 它的子节点会被垂直布置
 
@@ -161,13 +167,9 @@ cost-effective -- 低成本高效益，划算的
 
 dense --（信息量大得）难理解的，难懂的
 
-Once you create an original version, you don't have to worry about other derivative ones. Cmmunity members wil naturally develop them on their own.
-
 emoji -- 表情符号
 
 edge case -- 边缘案例
-
-A parent compoent is completely in the dark about what's going on insides its child component -- 父组件不知道子组件里发生了什么
 
 Descend from --
 
@@ -197,8 +199,6 @@ framework agnostic -- 不依赖于框架的
 
 go deep into -- 深入到
 
-what future plans are there for this project -- 这个项目未来有啥计划？
-
 in the first place -- 起初，一开始；首先，首要的是
 
 The issue here is that -- 这里的问题是...
@@ -219,12 +219,6 @@ here is where ... come into play -- 这就是...发挥作用的地方
 
 here is where ... step in --这就是...可以介入（干预）的地方
 
-I can't figure out why it doesn't work the way as expected. -- 我想不出为什么它没有按预期的那样工作。
-
-It's entirely a matter of preference. -- 这完全是个见仁见智(个人喜好)的问题。
-
-Invalid folder name is composed of alphanumeric characters, underscores and dashes. - 有效的文件夹名由字母、数字、下划线、破折号组成
-
 lay the ground work for -- 为....奠定基础
 
 LIFO -- Last In First Out
@@ -240,10 +234,6 @@ this node is moved down two levels -- 这个节点被下移两个层级
 man-hour -- 工时
 
 marital relationship  -- 婚姻关系
-
-A man can marry and get divorced multiple times. A woman can also marry and get divorced multiple times too.
-
-merely a sample solution, not really battle-tested -- 只是一个样例方案，还未经实战考验
 
 Methodology -- 方法论
 
@@ -269,8 +259,6 @@ per se -- 本质上
 
 plug-and-play - 即插即用的
 
-Providing users with maximum customization space(flexibility) is the primary intent behind creating this library
-
 Pressing -- 紧急的，迫切的
 
 Pseudocode -- 伪代码
@@ -284,8 +272,6 @@ reducer -- 归纳函数
 refer to it as -- 把...称为...
 
 roundabout -- 迂回的;间接的;兜圈子的
-
-we use vertical lines to connect parent and cild nodes, and horizontal lines to connect spouse nodes  -- 我们用垂直线连接父子节点，用水平线连接配偶节点。
 
 self-explanatory -- 自解释的
 
@@ -309,15 +295,13 @@ synthetic -- 人造的，人工合成的
 
 take into account -- 考虑到;把…计算在内
 
-it will take me a lot of time to fix the compatatibility issues
+
 
 tedious -- 冗长乏味的
 
 theoretically -- 照理说，
 
 That said， -- 也就是说，
-
-There may be scenarios where you need to -- 可能有这样的场景，你需要.....
 
 There is nothing to dive into -- 没啥值得深入研究的东西
 
