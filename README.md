@@ -161,6 +161,8 @@ cost-effective -- 低成本高效益，划算的
 
 dense --（信息量大得）难理解的，难懂的
 
+Once you create an original version, you don't have to worry about other derivative ones. Cmmunity members wil naturally develop them on their own.
+
 emoji -- 表情符号
 
 edge case -- 边缘案例
