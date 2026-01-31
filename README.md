@@ -279,6 +279,8 @@ refer to it as -- 把...称为...
 
 roundabout -- 迂回的;间接的;兜圈子的
 
+we use vertical lines to connect parent and cild nodes, and horizontal lines to connect spouse nodes  -- 我们用垂直线连接父子节点，用水平线连接配偶节点。
+
 self-explanatory -- 自解释的
 
 solid line -- 实线
@@ -286,6 +288,10 @@ solid line -- 实线
 dashed line -- 虚线
 
 syntactic -- 语法的
+
+A rectangle stands for a male node -- 矩形代表男性节点
+
+A willow leaf stands for a female node -- 柳叶代表女性节点
 
 the most space-saving solution -- 最節省空間的解決方案
 
