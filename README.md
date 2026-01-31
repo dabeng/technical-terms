@@ -108,9 +108,7 @@ allocation / deallocation -- 分配/回收
 
 a.k.a(also known as) -- 亦称，又名
 
-as the name implies - 顾名思义
-
-allocation -- 配给，分配 (e.g. memory allocations)
+as the name implies -- 顾名思义
 
 beforehand -- 预先；事先；提前
 
