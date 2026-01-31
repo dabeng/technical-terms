@@ -12,6 +12,8 @@ I was in charge of the architecture design, technology stack selection and the i
 
 All my work falls within the scope of front-end field -- 我所有的工作都是前端领域
 
+I have been working as a full-time frontend developer since 2011 -- 从2011年开始，我就一直做专职的前端
+
 I once worked in RedHat for nearly six years  -- 我曾在红帽工作了近6年
 
 During that period, I developed various internal systems -- 在那期间，我开发过各种各样的内部系统
