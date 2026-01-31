@@ -267,6 +267,8 @@ self-explanatory -- 自解释的
 
 syntactic -- 语法的
 
+the most space-saving solution -- 最節省空間的解決方案
+
 semantic -- 语义的
 
 superseded -- 取代，替代(已非最佳选择或已过时的事物)
