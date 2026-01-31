@@ -223,6 +223,8 @@ lowercase -- 小写字母命名法
 
 man-hour -- 工时
 
+marital relationship  --  婚姻關係
+
 merely a sample solution, not really battle-tested -- 只是一个样例方案，还未经实战考验
 
 Methodology -- 方法论
