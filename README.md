@@ -40,7 +40,7 @@ Try your best to anwser the questions reaised by the opensource comunity members
 
 I have always firmly believed that the key to solve problems lies in changing the way of thinking, ranther than applying fashionable technologies  我始终认为解决问题的关键在于改变思考的方式，而非应用新潮的技术
 
-There is only the most suitable solution, not the best one  -- 只有最合适的方案，没有最好的方案
+There is only the most suitable solution, not the best one  只有最合适的方案，没有最好的方案
 
 VBCS allows users to develop the web applications in a what-you-see-is-what-you-get way
 
