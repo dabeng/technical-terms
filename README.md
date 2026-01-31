@@ -42,19 +42,17 @@ I have always firmly believed that the key to solve problems lies in changing th
 
 There is only the most suitable solution, not the best one  只有最合适的方案，没有最好的方案
 
-VBCS allows users to develop the web applications in a what-you-see-is-what-you-get way
-
-That product was not mature enough at that time. There are not enough reference materials
+VBCS allows users to develop the web applications in a what-you-see-is-what-you-get way  visual building cloud service允许用户用所见即所得的方式开发web应用
 
 I have to think from the VBCS creators' perspectives, how to allow users to develop modern web application by drag and drop UI elements
 
-All the variants of the organization chart originate from the ingenious ideas of community netizens
+All the variants of the organization chart originate from the ingenious ideas of community netizens  所有的组织结构图变种都源于社区网友的奇思妙想
 
 As the new feature requests become more and more, this jquery plugin is also growing larger and larger. It has transformed into a coarse-grained component, not fine-grained component anymore 
 
 I borrowed from the mongoose api design style
 
-I will continue to focus on the frontend field because contributing code to the opensource community benefit me a lot
+contributing code to the opensource community benefits me a lot  向开源社区贡献代码让我受益匪浅
 
 A man can get married and divorced multiple times. A women can get married and divorced multiple times. A couple can have multiple children. 
 
