@@ -233,6 +233,8 @@ limbo -- （尤指等待他人做决定）不稳定状态，中间态
 
 lowercase -- 小写字母命名法
 
+this node is moved down two levels -- 这个节点被下移两个层级
+
 man-hour -- 工时
 
 marital relationship  -- 婚姻关系
