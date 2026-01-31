@@ -58,11 +58,9 @@ A man can get married and divorced multiple times. A women can get married and d
 
 The one-to-many relationship turns into many-to-many relationship  一对多的关系变成了多对多的关系
 
-So you can imagine how difficult it is to construct family tree. It's very difficult to draw the lines between the related nodes with pure dom solution.
+At the next milestone, I'll expose the method to draw the line between the two random nodes
 
-At the next milestone, I'll expose the correspoding method to draw the line between the two random nodes
-
-As a best practice, we should use more shapes and fewer colors to reduce negative user experience for people with color deficiency
+As a best practice, we should use more shapes and fewer colors to reduce negative user experience for people with color deficiency  作为一条最佳实践，我们要多用图形少用颜色，以减少对有颜色障碍的人士的负面的用户体验
 
 Once you create an original version, you don't have to worry about other derivative ones. Cmmunity members wil naturally develop them on their own.
 
