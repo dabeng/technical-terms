@@ -90,7 +90,11 @@ So you can imagine how difficult it is to construct family tree. It's very diffi
 
 At the next milestone, I'll expose the correspoding method to draw the line between the two random nodes
 
-As a best practice, we should use more shapes and fewer colors to reduce negative user experience for people with color deficiency  
+As a best practice, we should use more shapes and fewer colors to reduce negative user experience for people with color deficiency
+
+according to the covention  --  按照惯例
+
+A couple can have multiple children  --  一对夫妻可以生多个孩子
 
 a spinoff company of IBM -- 拆分出来的公司
 
