@@ -68,11 +68,13 @@ I can't figure out why it doesn't work as expected  我想不出为什么它没�
 
 It's entirely a matter of preference.  这完全是个人偏好的问题
 
-Invalid folder name is composed of alphanumeric characters, underscores and dashes. - 有效的文件夹名由字母、数字、下划线、破折号组成
+Valid folder name is composed of alphanumeric characters, underscores and dashes  有效的文件夹名由字母、数字、下划线、破折号组成
 
 A man can marry and get divorced multiple times. A woman can also marry and get divorced multiple times too. A couple can have multiple children
 
 we use vertical lines to connect parent and cild nodes, and horizontal lines to connect spouse nodes  -- 我们用垂直线连接父子节点，用水平线连接配偶节点
+
+Its child nodes will be arranged vertically  -- 它的子节点会被垂直布置
 
 it will take me a lot of time to fix the compatatibility issues
 
@@ -86,13 +88,11 @@ how log is the development and maintenance cycle of this project ? 该项目的�
 
 what is the career progression path for this front-end developer position ?  这个前端岗的职业发展路径是什么
 
-according to the covention  --  按照惯例
-
-Its child nodes will be arranged vertically  -- 它的子节点会被垂直布置
-
 a spinoff company of IBM -- 拆分出来的公司
 
-adopted child -- 包养的孩子
+according to the covention  --  按照惯例
+
+adopted child -- 抱养的孩子
 
 biological child  --  亲生的孩子
 
