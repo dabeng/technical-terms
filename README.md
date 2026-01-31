@@ -72,9 +72,9 @@ Valid folder name is composed of alphanumeric characters, underscores and dashes
 
 A man can marry and get divorced multiple times. A woman can also marry and get divorced multiple times too. A couple can have multiple children
 
-we use vertical lines to connect parent and cild nodes, and horizontal lines to connect spouse nodes  -- 我们用垂直线连接父子节点，用水平线连接配偶节点
+we use vertical lines to connect parent and child nodes, and horizontal lines to connect spouse nodes  我们用垂直线连接父子节点，用水平线连接配偶节点
 
-Its child nodes will be arranged vertically  -- 它的子节点会被垂直布置
+Its child nodes will be arranged vertically  它的子节点会被垂直布置
 
 it will take me a lot of time to fix the compatatibility issues
 
