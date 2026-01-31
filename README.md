@@ -94,6 +94,10 @@ As a best practice, we should use more shapes and fewer colors to reduce negativ
 
 a spinoff company of IBM -- 拆分出来的公司
 
+adopted child -- 包养的孩子
+
+biological child  --  亲生的孩子
+
 big and comprehensive -- 大而全的
 
 small and specialized -- 小而专的
@@ -254,6 +258,8 @@ out of the reach of ... -- 够不着；力所不及
 per se -- 本质上
 
 plug-and-play - 即插即用的
+
+Providing users with maximum customization space(flexibility) is the primary intent behind creating this library
 
 Pressing -- 紧急的，迫切的
 
