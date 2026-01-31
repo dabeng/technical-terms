@@ -90,6 +90,8 @@ So you can imagine how difficult it is to construct family tree. It's very diffi
 
 At the next milestone, I'll expose the correspoding method to draw the line between the two random nodes
 
+As a best practice, we should use more shapes and fewer colors to reduce negative user experience for people with color deficiency  
+
 a spinoff company of IBM -- 拆分出来的公司
 
 big and comprehensive -- 大而全的
@@ -223,7 +225,9 @@ lowercase -- 小写字母命名法
 
 man-hour -- 工时
 
-marital relationship  --  婚姻關係
+marital relationship  -- 婚姻关系
+
+A man can marry and get divorced multiple times. A woman can also marry and get divorced multiple times too.
 
 merely a sample solution, not really battle-tested -- 只是一个样例方案，还未经实战考验
 
@@ -266,6 +270,10 @@ refer to it as -- 把...称为...
 roundabout -- 迂回的;间接的;兜圈子的
 
 self-explanatory -- 自解释的
+
+solid line -- 实线
+
+dashed line -- 虚线
 
 syntactic -- 语法的
 
