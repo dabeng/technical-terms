@@ -92,9 +92,7 @@ a spinoff company of IBM -- 拆分出来的公司
 
 exclamation mark, question mark -- 叹号，问号
 
-single quotes, double quotes -- 单引号，双引号
-
-backtick -- 反引号（`）
+single quotes, double quotes, backtick -- 单引号，双引号, 反引号（`）
 
 weakly typed/ weak typing -- 弱类型
 
