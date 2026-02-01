@@ -90,6 +90,10 @@ what is the career progression path for this front-end developer position ?  这
 
 a spinoff company of IBM -- 拆分出来的公司
 
+weakly typed/ weak typing -- 弱类型
+
+strongly typed/ strong typing -- 强类型
+
 according to the covention  --  按照惯例
 
 adopted child -- 抱养的孩子
