@@ -90,6 +90,8 @@ what is the career progression path for this front-end developer position ?  这
 
 a spinoff company of IBM -- 拆分出来的公司
 
+3.2.1 -- the major version 3. the minor version is 2. the patch version is 1
+
 TS交叉类型A & B -- 读作：A intersection B
 
 TS联合类型A | B -- 读作：A union B
