@@ -90,6 +90,8 @@ what is the career progression path for this front-end developer position ?  这
 
 a spinoff company of IBM -- 拆分出来的公司
 
+backtick -- 反引号（`）
+
 weakly typed/ weak typing -- 弱类型
 
 strongly typed/ strong typing -- 强类型
