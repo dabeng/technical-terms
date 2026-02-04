@@ -76,6 +76,16 @@ we use vertical lines to connect parent and child nodes, and horizontal lines to
 
 Its child nodes will be arranged vertically  它的子节点会被垂直布置
 
+As long as the business logic is self-consistent and the requirement boundaries are clear, I'm confident in delievering the frontend code with guarnteed quality and quantity
+
+Lightweight and powerful are the criteria for evaluating a good frontend framework
+
+I really enjoy the process of turning ides into reality
+
+The more layers of encapsulatin, the more difficult it is to fix bugs
+
+Superficially, you are enjoying the nice views, but you are rethinking the optimal solution over and over again in an undisturbed environment
+
 it will take me a lot of time to fix the compatatibility issues
 
 What is the main job content of this position ?  该岗位的主要工作内容是什么
@@ -95,6 +105,10 @@ a spinoff company of IBM -- 拆分出来的公司
 TS交叉类型A & B -- 读作：A intersection B
 
 TS联合类型A | B -- 读作：A union B
+
+interact, intercept, interpret -- 交互；拦截；解读
+
+be like, be similar to -- 与...相似
 
 exclamation mark, question mark -- 叹号，问号
 
